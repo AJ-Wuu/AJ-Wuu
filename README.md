@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 Hi there 🔭
 
 <!--
 **AJ-Wuu/AJ-Wuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Let's see some statistics 👀 together!  
+<p align="center"><b>My Most Used Languages and Tools:</b></p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-wuu&hide=tex,html&theme=github_dark" alt="aj-wuu" />
+
+<p align="center"><b>My GitHub Stats:</b></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aj-wuu&count_private=true&hide=stars&show_icons=true&theme=prussian" alt="aj-wuu" />
